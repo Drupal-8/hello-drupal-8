@@ -1,0 +1,6 @@
+name: Hello Drupal 8!
+type: module
+description: Hello Drupal 8!
+package: Drupal Way
+version: 8.x-1.x
+core: 8.x
